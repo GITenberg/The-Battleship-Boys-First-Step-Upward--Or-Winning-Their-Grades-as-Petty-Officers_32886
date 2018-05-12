@@ -1,0 +1,28 @@
+_repo: The-Battleship-Boys-First-Step-Upward--Or-Winning-Their-Grades-as-Petty-Officers_32886
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32886-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Patchin, Frank Gee
+    alias: Patchin, Frank Glines
+    birthdate: 1861
+    deathdate: 1925
+    gutenberg_agent_id: '1623'
+    url: http://www.gutenberg.org/2009/agents/1623
+description: ''
+gutenberg_issued: '2010-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Battleships -- Juvenile fiction'
+- !lcsh 'United States. Navy -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Battleship Boys' First Step Upward; Or, Winning Their Grades as Petty Officers
+url: http://www.gutenberg.org/ebooks/32886
